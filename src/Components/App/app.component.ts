@@ -6,5 +6,5 @@ styleUrls: ['./app.component.css']
 })
 
 export class AppComponent{
-  name : 'this is my first angular 8 app';
+  name = 'mobile App';
 }
